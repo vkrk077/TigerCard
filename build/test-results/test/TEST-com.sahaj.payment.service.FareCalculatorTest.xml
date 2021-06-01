@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sahaj.payment.service.FareCalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-01T10:07:17" hostname="Ravikirans-MacBook-Pro.local" time="0.064">
+  <properties/>
+  <testcase name="validateIfWeeklyCapReached()" classname="com.sahaj.payment.service.FareCalculatorTest" time="0.064"/>
+  <system-out><![CDATA[Weekly fair reset for trip:DailyTrip(dailyFare=120)
+Weekly cap not reached for trip:DailyTrip(dailyFare=120)
+Current Weekly fare :120
+Current Total fare :120
+Weekly cap not reached for trip:DailyTrip(dailyFare=120)
+Current Weekly fare :120
+Current Total fare :240
+Weekly cap not reached for trip:DailyTrip(dailyFare=120)
+Current Weekly fare :120
+Current Total fare :360
+Weekly cap not reached for trip:DailyTrip(dailyFare=120)
+Current Weekly fare :120
+Current Total fare :480
+Weekly cap not reached for trip:DailyTrip(dailyFare=80)
+Current Weekly fare :80
+Current Total fare :560
+Weekly cap not reached for trip:DailyTrip(dailyFare=40)
+Current Weekly fare :40
+Current Total fare :600
+Weekly fair reset for trip:DailyTrip(dailyFare=0)
+Weekly cap not reached for trip:DailyTrip(dailyFare=0)
+Current Weekly fare :0
+Current Total fare :600
+Weekly fair reset for trip:DailyTrip(dailyFare=100)
+Weekly cap not reached for trip:DailyTrip(dailyFare=100)
+Current Weekly fare :100
+Current Total fare :700
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

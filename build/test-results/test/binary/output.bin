@@ -1,0 +1,27 @@
+4Weekly fair reset for trip:DailyTrip(dailyFare=120)
+9Weekly cap not reached for trip:DailyTrip(dailyFare=120)
+Current Weekly fare :120
+Current Total fare :120
+9Weekly cap not reached for trip:DailyTrip(dailyFare=120)
+Current Weekly fare :120
+Current Total fare :240
+9Weekly cap not reached for trip:DailyTrip(dailyFare=120)
+Current Weekly fare :120
+Current Total fare :360
+9Weekly cap not reached for trip:DailyTrip(dailyFare=120)
+Current Weekly fare :120
+Current Total fare :480
+8Weekly cap not reached for trip:DailyTrip(dailyFare=80)
+Current Weekly fare :80
+Current Total fare :560
+8Weekly cap not reached for trip:DailyTrip(dailyFare=40)
+Current Weekly fare :40
+Current Total fare :600
+2Weekly fair reset for trip:DailyTrip(dailyFare=0)
+7Weekly cap not reached for trip:DailyTrip(dailyFare=0)
+Current Weekly fare :0
+Current Total fare :600
+4Weekly fair reset for trip:DailyTrip(dailyFare=100)
+9Weekly cap not reached for trip:DailyTrip(dailyFare=100)
+Current Weekly fare :100
+Current Total fare :700
